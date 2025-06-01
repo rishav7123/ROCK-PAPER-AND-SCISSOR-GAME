@@ -1,5 +1,5 @@
 import random
-print("________WELCOME TO YOU FOR JOING THIS GAME_________")
+print("________WELCOME TO YOU FOR JOINING THIS GAME_________")
 
 items = ["rock", "paper", "scissor"]
 
@@ -37,5 +37,4 @@ else:
            else:    
                 print("Rock breaks scissor")
                 print("Computer wins")    
-              
-            
+                        
